@@ -1,0 +1,4 @@
+Mar 12 04:02:50 localhost smbd[3181]: nobody|t430|192.168.37.1|Anonymous|connect|ok|Anonymous
+Mar 12 04:02:51 localhost smbd[3181]: nobody|t430|192.168.37.1|Anonymous|open|ok|r|test.txt
+Mar 12 04:02:51 localhost smbd[3181]: nobody|t430|192.168.37.1|Anonymous|open|ok|r|test.txt
+Mar 12 04:02:51 localhost smbd[3181]: nobody|t430|192.168.37.1|Anonymous|open|ok|r|test.txt
